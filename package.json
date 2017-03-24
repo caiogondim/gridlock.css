@@ -1,0 +1,26 @@
+{
+  "name": "gridlock.css",
+  "version": "1.0.0",
+  "description": "Small CSS grid layout implemented with flexbox",
+  "main": "dist/gridlock.css",
+  "dependencies": {},
+  "devDependencies": {
+    "autoprefixer": "^6.7.7",
+    "postcss-cli": "^3.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "postcss --use autoprefixer src/index.css -d build/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caiogondim/gridlock.css.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caiogondim/gridlock.css/issues"
+  },
+  "homepage": "https://github.com/caiogondim/gridlock.css#readme"
+}
