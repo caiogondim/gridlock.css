@@ -1,0 +1,5 @@
+- Dynamic gutter/padding
+- CSS scroll snap points
+- autoprefixer
+- add code to each section
+- put dash in front of qualifiers
