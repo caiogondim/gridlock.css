@@ -10,7 +10,7 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "postcss --use autoprefixer src/index.css -d build/"
+    "build": "cat ./src/index.css | postcss --no-map --use autoprefixer > dist/gridlock.css"
   },
   "repository": {
     "type": "git",

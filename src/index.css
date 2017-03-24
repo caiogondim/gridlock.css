@@ -70,7 +70,7 @@
 }
 
 .Cell.fill {
-  width: 0; min-width: 0; flex-grow: 1;fill
+  width: 0; min-width: 0; flex-grow: 1;
 }
 
 .Cell.left {
