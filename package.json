@@ -1,6 +1,6 @@
 {
   "name": "gridlock.css",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Small CSS grid layout implemented with flexbox",
   "main": "dist/gridlock.css",
   "dependencies": {},
