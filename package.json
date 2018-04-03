@@ -16,7 +16,11 @@
     "type": "git",
     "url": "git+https://github.com/caiogondim/gridlock.css.git"
   },
-  "keywords": [],
+  "keywords": [
+    "grid",
+    "flexbox",
+    "css"
+  ],
   "author": "Caio Gondim",
   "license": "MIT",
   "bugs": {
