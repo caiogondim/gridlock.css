@@ -23,7 +23,7 @@ npm install --save gridlock.css
 </div>
 ```
 
-Look at modifiers [here](https://github.com/caiogondim/gridlock.css/master/src/index.css).
+Look at modifiers [here](https://github.com/caiogondim/gridlock.css/blob/master/src/index.css).
 
 ---
 
