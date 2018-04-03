@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/caiogondim/gridlock.css/master/banner.png">
+<img src="https://rawgit.com/caiogondim/gridlock.css/master/banner.svg">
 
 # gridlock.css
 
